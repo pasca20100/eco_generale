@@ -1,0 +1,62 @@
+---
+title: "dossiers"
+---
+
+# Gestion économique d’un pays fictif : Sujets de dossier
+
+## Gestion économique et politique monétaire
+
+-   **Sujet 1 :** Comment gérer une inflation galopante dans un pays fictif ?
+-   **Sujet 2 :** Stratégies de relance économique face à une récession prolongée : politique budgétaire vs politique monétaire.
+-   **Sujet 3 :** Quelle politique monétaire adopter face à une crise bancaire dans un pays fictif ?
+-   **Sujet 4 :** Impact des taux d’intérêt sur l’investissement et l’emploi : simulations pour un pays en stagnation économique.
+
+## Réponses aux crises économiques
+
+-   **Sujet 5 :** Gestion d'une crise économique mondiale : quelles mesures pour limiter les impacts sur un pays fictif ?
+-   **Sujet 6 :** Réponse à une crise des subprimes dans une économie fictive : politiques keynésiennes ou classiques ?
+-   **Sujet 7 :** Gestion d’une crise de la dette souveraine dans un État fictif : réformes nécessaires et mécanismes de solidarité.
+-   **Sujet 8 :** Lutte contre une bulle spéculative immobilière : stratégies de régulation économique.
+
+## Réformes structurelles et politiques publiques
+
+-   **Sujet 9 :** Réformer le marché du travail pour réduire le chômage structurel : une étude de cas fictive.
+-   **Sujet 10 :** Quelles réformes structurelles pour stimuler la croissance économique à long terme dans un pays fictif ?
+-   **Sujet 11 :** Impact d’une réforme fiscale sur l’économie et les inégalités sociales dans un pays fictif.
+-   **Sujet 12 :** Réformes de la sécurité sociale et des retraites : équilibre budgétaire ou justice sociale ?
+
+## Chômage et marché du travail
+
+-   **Sujet 13 :** Stratégies pour réduire le chômage des jeunes dans une économie fictive en crise.
+-   **Sujet 14 :** Flexibiliser le marché du travail pour réduire le chômage : une simulation basée sur une approche néoclassique.
+-   **Sujet 15 :** Sous-emploi et chômage de longue durée : quelles politiques actives pour un pays fictif ?
+
+## Croissance économique et transition écologique
+
+-   **Sujet 16 :** Comment concilier croissance économique et transition écologique dans une économie fictive ?
+-   **Sujet 17 :** Politiques publiques pour réduire les émissions de carbone tout en maintenant la compétitivité économique.
+-   **Sujet 18 :** Transition énergétique et réforme des subventions aux énergies fossiles dans un pays fictif.
+
+## Relations économiques internationales
+
+-   **Sujet 19 :** Impact d’un choc externe (hausse des prix du pétrole) sur un pays fictif : réponses économiques et budgétaires.
+-   **Sujet 20 :** Comment protéger une économie fictive des effets négatifs de la mondialisation ?
+-   **Sujet 21 :** Gestion d’un déficit commercial chronique dans un pays fictif : politiques pour stimuler les exportations.
+
+## Politiques budgétaires et dépenses publiques
+
+-   **Sujet 22 :** Réduire le déficit budgétaire sans freiner la croissance : un défi pour une économie fictive.
+-   **Sujet 23 :** Investir dans les infrastructures publiques pour relancer une économie fictive en récession.
+-   **Sujet 24 :** Quelles priorités budgétaires pour un pays fictif confronté à une explosion de sa dette publique ?
+
+## Systèmes financiers et régulation
+
+-   **Sujet 25 :** Stabiliser le secteur bancaire après une crise systémique : stratégies pour un État fictif.
+-   **Sujet 26 :** Encadrer les cryptomonnaies et intégrer une monnaie numérique nationale : enjeux et opportunités.
+-   **Sujet 27 :** Quelles régulations pour éviter une nouvelle crise financière dans un système économique fictif ?
+
+## Inégalités sociales et redistribution
+
+-   **Sujet 28 :** Lutter contre les inégalités économiques dans un pays fictif : politiques redistributives ou croissance inclusive ?
+-   **Sujet 29 :** Mise en place d’un revenu universel : quels impacts économiques dans un pays fictif ?
+-   **Sujet 30 :** Taxation des grandes fortunes pour financer l’investissement public : un équilibre difficile à atteindre.

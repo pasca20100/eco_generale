@@ -1,0 +1,122 @@
+---
+title: "chapitre 1: Introduction aux théories économiques de l'Etat"
+bibliography: eco_generale.bib
+citeproc: true
+format: html
+toc: true
+code-fold: true
+warning: false
+code-summary: "Show the code"
+theme: cosmo
+editor: visual
+css: styles.css
+---
+
+## Introduction
+
+Plus ou moins d'Etat? Celui-ci doit-il intervenir dans l'économie? Si oui, comment? Quels sont ses objectifs et ses outils? Que nous dit la théorie économique?
+
+Ce chapitre s'appuie sur le Précis d'économie d'Emmanuel Combe [@noauthor_precis_nodate]
+
+### Les trois fonctions de l'Etat:
+
+-   Allocation des ressources: l'Etat réalise des dépenses pour entretenir son administration et financer les biens collectifs (défense, infrastructures ...)
+
+-   Redistribution: Vers l'égalité d'accès des citoyens à certaines ressources
+
+-   Régulation: Soutenir l'activité économique
+
+### Les objectifs de la politique économique de l'Etat:
+
+```{r}
+# Étape 1 : Préparer les données
+data_france <- data.frame(
+  periode = c("2000", "2005", "2010", "2015", "2020"),
+  croissance = c(3.0, 2.5, 1.2, 1.8, -0.5),  # Croissance économique (%)
+  emploi = c(93, 91, 89, 87, 85),           # Taux d'emploi (%)
+  prix = c(1.5, 2.0, 1.8, 1.6, 0.5),        # Inflation (%)
+  commerce = c(0.2, -0.5, -1.0, -1.5, -2.0) # Balance commerciale (% du PIB)
+)
+
+# Étape 2 : Normaliser les données
+normalize <- function(x) {
+  (x - min(x)) / (max(x) - min(x))
+}
+
+data_normalized <- data_france
+data_normalized[, -1] <- as.data.frame(lapply(data_france[, -1], normalize))
+
+# Étape 3 : Préparer les données pour le graphique radar
+# Installer et charger le package fmsb si nécessaire
+
+library(fmsb)
+
+# Ajouter les lignes pour les max et min (requis pour le package fmsb)
+radar_data <- rbind(
+  rep(1, 4),  # Valeurs maximales après normalisation
+  rep(0, 4),  # Valeurs minimales après normalisation
+  data_normalized[, -1]  # Données normalisées
+)
+
+# Nommer les colonnes pour le graphique radar
+colnames(radar_data) <- c("Croissance", "Emploi", "Prix", "Commerce")
+rownames(radar_data) <- c("Max", "Min", data_france$periode)
+
+# Étape 4 : Tracer le carré magique
+radarchart(
+  radar_data,
+  axistype = 1,
+  pcol = rainbow(nrow(data_france)),  # Couleurs pour chaque période
+  pfcol = rainbow(nrow(data_france), alpha = 0.4),  # Couleurs remplies
+  plwd = 2,  # Épaisseur des lignes
+  cglcol = "grey", cglty = 1, axislabcol = "black", caxislabels = seq(0, 1, 0.2),
+  title = "Carré magique de Kaldor - France à différentes périodes"
+)
+
+# Ajouter une légende
+legend(
+  "topright",
+  legend = data_france$periode,
+  col = rainbow(nrow(data_france)),
+  lty = 1, lwd = 2
+)
+
+```
+
+## Justifications de l'Etat minimal : les Classiques
+
+Les Classiques prônent une intervention minimale de l'Etat dans l'économie [@saberan_notion_2008]
+
+::: callout-tip
+## Citation
+
+« Le troisième et dernier devoir du souverain ou de la république est celui d’élever et d’entretenir ces ouvrages et ces établissements publics dont une grande société retire d’immense avantages, mais qui sont néanmoins de nature à ne pouvoir être entrepris ou entretenus par un ou par quelques particuliers, attendu que pour ceux-ci, le profit ne saurait jamais leur en rembourser la dépense. Ce devoir exige aussi, pour le remplir, des dépenses dont l’étendue varie selon les divers degrés de la société. Après les travaux et les établissements publics nécessaires pour la défense de la société et pour l’administration de la justice, deux objets dont nous avons parlé, les autres travaux et établissements de ce genre sont principalement ceux pour faciliter le commerce de la société, et ceux destinés à étendre l’instruction parmi le peuple ».
+
+***A Smith « Recherches sur la nature et les causes de la richesse des nations », 1776, livre V, chapitre I.***
+:::
+
+### Remédier aux défaillances de marché
+
+#### Les Externalités
+
+#### Les Biens Publics
+
+### Veiller au fonctionnement concurrentiel des marchés
+
+#### Les lois anti-trust
+
+#### Régulation des monopoles
+
+## Justifications d'une intervention prononcée de l'Etat: l'analyse keynésienne
+
+### Les politiques de relance: le multiplicateur keynésien
+
+### Le modèle IS-LM
+
+::: callout-note
+A ce cours est associée une application de simulation de politiques économiques:
+
+<https://pascalinev.shinyapps.io/eco_generale/>
+
+A vous de jouer ...
+:::

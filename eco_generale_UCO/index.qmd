@@ -1,0 +1,39 @@
+# Présentation {.unnumbered}
+
+## Objectifs
+
+-   *Comprendre les modalités, les objectifs et les enjeux de la politique économique.*
+
+-   *Comprendre les contours et caractéristiques du chômage, le fonctionnement du marché du travail et la pluralité des politiques de l’emploi.*
+
+## Pré-requis
+
+*\* Le cours d’économie générale (S2) suppose la maîtrise des savoir-faire suivants :*
+
+-   *Mesure de proportion, pourcentage de répartition.*
+
+-   *Taux de variation, taux de variation cumulé, coefficient multiplicateur, indice simple.*
+
+-   *Moyenne arithmétique simple et pondérée.*
+
+-   *Indice synthétique.*
+
+-   *Médiane.*
+
+-   *Écart et rapport inter-quantile.*
+
+-   *Corrélation et causalité.*
+
+-   *Taux de variation moyen.*
+
+-   *Valeur nominale, valeur réelle (notamment, taux d'intérêt nominal et taux d'intérêt réel).*
+
+*- Savoir exploiter : Tableau à double-entrée, diagrammes de répartition, représentation de séries chronologiques, représentation graphique de fonctions simples (offre, demande, coût) et interprétation de leurs pentes et de leurs déplacements.*
+
+*\* Les théories, notions et mécanismes abordés au semestre 1 en Économie Générale et en Histoire de la Pensée Economique avec notamment*
+
+*- Les différents agrégats macroéconomiques*
+
+*- Les grandes fonctions macroéconomiques*
+
+## 

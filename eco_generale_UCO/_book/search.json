@@ -1,0 +1,352 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Economie Générale II",
+    "section": "",
+    "text": "Présentation",
+    "crumbs": [
+      "Home",
+      "Présentation"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "“Précis d’économie  PUF.” n.d.\nAccessed January 9, 2025. https://www.puf.com/precis-deconomie.\n\n\nSabéran, Shirine. 2008. “La notion d’intérêt général chez Adam\nSmith : de la richesse des nations à la puissance des nations:”\nGéoéconomie n° 45 (2): 55–71. https://doi.org/10.3917/geoec.045.0055.",
+    "crumbs": [
+      "Home",
+      "References"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html",
+    "href": "plan_cours.html",
+    "title": "1  Plan du Cours",
+    "section": "",
+    "text": "1.1 Séance 1 : Introduction aux théories économiques de l’État\nObjectifs\n- Présenter les principales théories économiques sur le rôle de l’État dans l’économie. - Expliquer les courants classiques et keynésiens. La synthèse : le modèle IS-LM\nA ce cours est associée une application de simulation de politiques économiques:\nhttps://pascalinev.shinyapps.io/eco_generale/\nActivités\n1. Lecture d’extraits d’œuvres classiques (Adam Smith, John Maynard Keynes). 2. Comparaison des approches keynésiennes et classiques à travers un exemple concret (ex. : crise économique de 2008). 3. Discussion : Quel rôle l’État doit-il jouer dans l’économie actuelle ?",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-1-introduction-aux-théories-économiques-de-létat",
+    "href": "plan_cours.html#séance-1-introduction-aux-théories-économiques-de-létat",
+    "title": "1  Plan du Cours",
+    "section": "",
+    "text": "Documents Complémentaire\n\n\n\nhttps://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/monnaie-le-carburant-de-la-croissance-3375007",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-2-le-cadre-institutionnel-et-le-processus-budgétaire",
+    "href": "plan_cours.html#séance-2-le-cadre-institutionnel-et-le-processus-budgétaire",
+    "title": "1  Plan du Cours",
+    "section": "1.2 Séance 2 : Le cadre institutionnel et le processus budgétaire",
+    "text": "1.2 Séance 2 : Le cadre institutionnel et le processus budgétaire\nObjectifs\n- Comprendre le rôle des institutions dans l’élaboration du budget de l’État et les règles de l’Union européenne.\nActivités\n1. Étude de cas : Analyse d’un budget national (ex. : budget français) et son approbation par les institutions européennes. 2. Discussion : L’impact des critères de Maastricht sur les politiques budgétaires nationales. 3. Débat : Les limites du processus budgétaire dans l’UE face aux crises économiques.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-3-la-politique-monétaire-et-la-bce",
+    "href": "plan_cours.html#séance-3-la-politique-monétaire-et-la-bce",
+    "title": "1  Plan du Cours",
+    "section": "1.3 Séance 3 : La politique monétaire et la BCE",
+    "text": "1.3 Séance 3 : La politique monétaire et la BCE\nObjectifs\n- Analyser les mécanismes de la politique monétaire et leur impact sur les économies nationales au sein de l’UEM.\nActivités\n1. Étude de cas : Analyse des décisions de la BCE pendant la crise de la zone euro (2010-2012). 2. Simulation : Prendre des décisions en tant que membres du conseil de la BCE concernant les taux d’intérêt face à une crise économique. 3. Discussion : Les limites de l’indépendance de la BCE.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-4-les-politiques-économiques-face-aux-inégalités-sociales-et-économiques",
+    "href": "plan_cours.html#séance-4-les-politiques-économiques-face-aux-inégalités-sociales-et-économiques",
+    "title": "1  Plan du Cours",
+    "section": "1.4 Séance 4 : Les politiques économiques face aux inégalités sociales et économiques",
+    "text": "1.4 Séance 4 : Les politiques économiques face aux inégalités sociales et économiques\nObjectifs\n- Analyser les causes et les conséquences des inégalités économiques. - Étudier les différentes politiques économiques visant à réduire les inégalités sociales. - Discuter des arbitrages entre croissance économique et équité sociale.\nActivités\n1. Étude de cas : Analyse des politiques redistributives mises en place dans des pays européens (exemple : impôt progressif, transferts sociaux). 2. Discussion : Les inégalités sont-elles inévitables dans une économie de marché ? Quels rôles pour l’État ? 3. Atelier : Proposer une stratégie économique pour réduire les inégalités dans un pays fictif en respectant des contraintes budgétaires.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-5-les-réformes-structurelles-en-france-et-en-europe",
+    "href": "plan_cours.html#séance-5-les-réformes-structurelles-en-france-et-en-europe",
+    "title": "1  Plan du Cours",
+    "section": "1.5 Séance 5 : Les réformes structurelles en France et en Europe",
+    "text": "1.5 Séance 5 : Les réformes structurelles en France et en Europe\nObjectifs\n- Étudier les réformes structurelles en France et en Europe et leur impact sur l’économie à long terme.\nActivités\n1. Étude de cas : Analyse des réformes du marché du travail en France (réforme des retraites, loi El Khomri). 2. Discussion : Quels sont les effets des réformes structurelles sur la croissance économique et l’emploi ? 3. Présentation en groupe : Comparer les réformes structurelles dans plusieurs pays européens et leurs résultats.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-6-la-crise-des-subprimes-et-les-réponses-politiques",
+    "href": "plan_cours.html#séance-6-la-crise-des-subprimes-et-les-réponses-politiques",
+    "title": "1  Plan du Cours",
+    "section": "1.6 Séance 6 : La crise des subprimes et les réponses politiques",
+    "text": "1.6 Séance 6 : La crise des subprimes et les réponses politiques\nObjectifs\n- Comprendre les causes de la crise des subprimes et les réponses politiques mises en place.\nActivités\n1. Étude de cas : Analyser les origines de la crise des subprimes et les réponses économiques des États-Unis et de l’Europe. 2. Simulation : Recommandations pour des politiques économiques après un choc externe. 3. Discussion : Quel rôle pour l’État face à une crise financière globale ?",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-7-la-crise-des-dettes-souveraines-analyse-et-solutions",
+    "href": "plan_cours.html#séance-7-la-crise-des-dettes-souveraines-analyse-et-solutions",
+    "title": "1  Plan du Cours",
+    "section": "1.7 Séance 7 : La crise des dettes souveraines : analyse et solutions",
+    "text": "1.7 Séance 7 : La crise des dettes souveraines : analyse et solutions\nObjectifs\n- Analyser la crise des dettes souveraines en Europe et les solutions mises en œuvre.\nActivités\n1. Étude de cas : Analyser la gestion de la crise de la dette en Grèce et en Espagne. 2. Débat : Les politiques d’austérité : nécessaire réduction des déficits ou frein à la croissance ? 3. Discussion : Quels mécanismes de solidarité économique peuvent être mis en place au sein de l’UE pour éviter de futures crises de dette souveraine ?",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-8-le-chômage-déséquilibre-du-marché-du-travail",
+    "href": "plan_cours.html#séance-8-le-chômage-déséquilibre-du-marché-du-travail",
+    "title": "1  Plan du Cours",
+    "section": "1.8 Séance 8 : Le chômage : déséquilibre du marché du travail",
+    "text": "1.8 Séance 8 : Le chômage : déséquilibre du marché du travail\nObjectifs\n- Définir et analyser les types de chômage et les difficultés de mesure.\nActivités\n1. Analyse de données : Étudier les taux de chômage dans différents pays européens (France, Allemagne, Espagne). 2. Discussion : Les limites des indicateurs officiels du chômage (ex. taux de chômage et sous-emploi). 3. Cas pratique : Identifier les facteurs influençant le chômage dans un pays de l’UE (récession, changements technologiques, etc.).",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-9-analyse-néoclassique-du-marché-du-travail",
+    "href": "plan_cours.html#séance-9-analyse-néoclassique-du-marché-du-travail",
+    "title": "1  Plan du Cours",
+    "section": "1.9 Séance 9 : Analyse néoclassique du marché du travail",
+    "text": "1.9 Séance 9 : Analyse néoclassique du marché du travail\nObjectifs\n- Appliquer les principes néoclassiques du marché du travail aux réalités contemporaines.\nActivités\n1. Étude de cas : Analyser l’impact des réformes du marché du travail en France à travers le prisme néoclassique. 2. Discussion : Les néoclassiques ont-ils une réponse adéquate aux défis du chômage structurel et du chômage technologique ? 3. Simulation : Déterminer l’impact des politiques d’offre (réduire les impôts, flexibiliser le marché du travail) sur le chômage.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#séance-10-politiques-de-lemploi-analyse-et-débat",
+    "href": "plan_cours.html#séance-10-politiques-de-lemploi-analyse-et-débat",
+    "title": "1  Plan du Cours",
+    "section": "1.10 Séance 10 : Politiques de l’emploi : analyse et débat",
+    "text": "1.10 Séance 10 : Politiques de l’emploi : analyse et débat\nObjectifs\n- Analyser les politiques de l’emploi mises en œuvre en France et en Europe.\nActivités\n1. Étude de cas : Analyser les politiques actives de l’emploi (formation, subventions à l’embauche) dans différents pays européens. 2. Simulation : Proposer des solutions pour réduire le chômage dans un pays fictif (par exemple, une nation européenne en récession). 3. Débat : Quelle politique de l’emploi est la plus efficace face au chômage des jeunes et au chômage de longue durée ?",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "plan_cours.html#fil-conducteur-pour-les-td-simulation-de-gestion-économique",
+    "href": "plan_cours.html#fil-conducteur-pour-les-td-simulation-de-gestion-économique",
+    "title": "1  Plan du Cours",
+    "section": "1.11 Fil conducteur pour les TD : Simulation de gestion économique",
+    "text": "1.11 Fil conducteur pour les TD : Simulation de gestion économique\nTout au long des séances, les étudiants seront divisés en groupes représentant différents acteurs économiques (gouvernement, secteur privé, banques centrales, syndicats, etc.). Chaque TD permettra aux groupes de prendre des décisions politiques et économiques basées sur les théories et concepts étudiés en cours. À chaque séance, les groupes présenteront leurs choix et leur analyse de l’impact de leurs décisions sur l’économie du pays fictif qu’ils gèrent. Cela permettra d’illustrer de manière concrète l’application des connaissances théoriques et de favoriser un apprentissage interactif.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Plan du Cours</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html",
+    "href": "dossiers.html",
+    "title": "3  dossiers",
+    "section": "",
+    "text": "4 Gestion économique d’un pays fictif : Sujets de dossier",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html#gestion-économique-et-politique-monétaire",
+    "href": "dossiers.html#gestion-économique-et-politique-monétaire",
+    "title": "3  dossiers",
+    "section": "4.1 Gestion économique et politique monétaire",
+    "text": "4.1 Gestion économique et politique monétaire\n\nSujet 1 : Comment gérer une inflation galopante dans un pays fictif ?\nSujet 2 : Stratégies de relance économique face à une récession prolongée : politique budgétaire vs politique monétaire.\nSujet 3 : Quelle politique monétaire adopter face à une crise bancaire dans un pays fictif ?\nSujet 4 : Impact des taux d’intérêt sur l’investissement et l’emploi : simulations pour un pays en stagnation économique.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html#réponses-aux-crises-économiques",
+    "href": "dossiers.html#réponses-aux-crises-économiques",
+    "title": "3  dossiers",
+    "section": "4.2 Réponses aux crises économiques",
+    "text": "4.2 Réponses aux crises économiques\n\nSujet 5 : Gestion d’une crise économique mondiale : quelles mesures pour limiter les impacts sur un pays fictif ?\nSujet 6 : Réponse à une crise des subprimes dans une économie fictive : politiques keynésiennes ou classiques ?\nSujet 7 : Gestion d’une crise de la dette souveraine dans un État fictif : réformes nécessaires et mécanismes de solidarité.\nSujet 8 : Lutte contre une bulle spéculative immobilière : stratégies de régulation économique.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html#réformes-structurelles-et-politiques-publiques",
+    "href": "dossiers.html#réformes-structurelles-et-politiques-publiques",
+    "title": "3  dossiers",
+    "section": "4.3 Réformes structurelles et politiques publiques",
+    "text": "4.3 Réformes structurelles et politiques publiques\n\nSujet 9 : Réformer le marché du travail pour réduire le chômage structurel : une étude de cas fictive.\nSujet 10 : Quelles réformes structurelles pour stimuler la croissance économique à long terme dans un pays fictif ?\nSujet 11 : Impact d’une réforme fiscale sur l’économie et les inégalités sociales dans un pays fictif.\nSujet 12 : Réformes de la sécurité sociale et des retraites : équilibre budgétaire ou justice sociale ?",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html#chômage-et-marché-du-travail",
+    "href": "dossiers.html#chômage-et-marché-du-travail",
+    "title": "3  dossiers",
+    "section": "4.4 Chômage et marché du travail",
+    "text": "4.4 Chômage et marché du travail\n\nSujet 13 : Stratégies pour réduire le chômage des jeunes dans une économie fictive en crise.\nSujet 14 : Flexibiliser le marché du travail pour réduire le chômage : une simulation basée sur une approche néoclassique.\nSujet 15 : Sous-emploi et chômage de longue durée : quelles politiques actives pour un pays fictif ?",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html#croissance-économique-et-transition-écologique",
+    "href": "dossiers.html#croissance-économique-et-transition-écologique",
+    "title": "3  dossiers",
+    "section": "4.5 Croissance économique et transition écologique",
+    "text": "4.5 Croissance économique et transition écologique\n\nSujet 16 : Comment concilier croissance économique et transition écologique dans une économie fictive ?\nSujet 17 : Politiques publiques pour réduire les émissions de carbone tout en maintenant la compétitivité économique.\nSujet 18 : Transition énergétique et réforme des subventions aux énergies fossiles dans un pays fictif.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html#relations-économiques-internationales",
+    "href": "dossiers.html#relations-économiques-internationales",
+    "title": "3  dossiers",
+    "section": "4.6 Relations économiques internationales",
+    "text": "4.6 Relations économiques internationales\n\nSujet 19 : Impact d’un choc externe (hausse des prix du pétrole) sur un pays fictif : réponses économiques et budgétaires.\nSujet 20 : Comment protéger une économie fictive des effets négatifs de la mondialisation ?\nSujet 21 : Gestion d’un déficit commercial chronique dans un pays fictif : politiques pour stimuler les exportations.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html#politiques-budgétaires-et-dépenses-publiques",
+    "href": "dossiers.html#politiques-budgétaires-et-dépenses-publiques",
+    "title": "3  dossiers",
+    "section": "4.7 Politiques budgétaires et dépenses publiques",
+    "text": "4.7 Politiques budgétaires et dépenses publiques\n\nSujet 22 : Réduire le déficit budgétaire sans freiner la croissance : un défi pour une économie fictive.\nSujet 23 : Investir dans les infrastructures publiques pour relancer une économie fictive en récession.\nSujet 24 : Quelles priorités budgétaires pour un pays fictif confronté à une explosion de sa dette publique ?",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html#systèmes-financiers-et-régulation",
+    "href": "dossiers.html#systèmes-financiers-et-régulation",
+    "title": "3  dossiers",
+    "section": "4.8 Systèmes financiers et régulation",
+    "text": "4.8 Systèmes financiers et régulation\n\nSujet 25 : Stabiliser le secteur bancaire après une crise systémique : stratégies pour un État fictif.\nSujet 26 : Encadrer les cryptomonnaies et intégrer une monnaie numérique nationale : enjeux et opportunités.\nSujet 27 : Quelles régulations pour éviter une nouvelle crise financière dans un système économique fictif ?",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html#inégalités-sociales-et-redistribution",
+    "href": "dossiers.html#inégalités-sociales-et-redistribution",
+    "title": "3  dossiers",
+    "section": "4.9 Inégalités sociales et redistribution",
+    "text": "4.9 Inégalités sociales et redistribution\n\nSujet 28 : Lutter contre les inégalités économiques dans un pays fictif : politiques redistributives ou croissance inclusive ?\nSujet 29 : Mise en place d’un revenu universel : quels impacts économiques dans un pays fictif ?\nSujet 30 : Taxation des grandes fortunes pour financer l’investissement public : un équilibre difficile à atteindre.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#objectifs",
+    "href": "index.html#objectifs",
+    "title": "Economie Générale II",
+    "section": "Objectifs",
+    "text": "Objectifs\n\nComprendre les modalités, les objectifs et les enjeux de la politique économique.\nComprendre les contours et caractéristiques du chômage, le fonctionnement du marché du travail et la pluralité des politiques de l’emploi.",
+    "crumbs": [
+      "Home",
+      "Présentation"
+    ]
+  },
+  {
+    "objectID": "index.html#pré-requis",
+    "href": "index.html#pré-requis",
+    "title": "Economie Générale II",
+    "section": "Pré-requis",
+    "text": "Pré-requis\n* Le cours d’économie générale (S2) suppose la maîtrise des savoir-faire suivants :\n\nMesure de proportion, pourcentage de répartition.\nTaux de variation, taux de variation cumulé, coefficient multiplicateur, indice simple.\nMoyenne arithmétique simple et pondérée.\nIndice synthétique.\nMédiane.\nÉcart et rapport inter-quantile.\nCorrélation et causalité.\nTaux de variation moyen.\nValeur nominale, valeur réelle (notamment, taux d’intérêt nominal et taux d’intérêt réel).\n\n- Savoir exploiter : Tableau à double-entrée, diagrammes de répartition, représentation de séries chronologiques, représentation graphique de fonctions simples (offre, demande, coût) et interprétation de leurs pentes et de leurs déplacements.\n* Les théories, notions et mécanismes abordés au semestre 1 en Économie Générale et en Histoire de la Pensée Economique avec notamment\n- Les différents agrégats macroéconomiques\n- Les grandes fonctions macroéconomiques",
+    "crumbs": [
+      "Home",
+      "Présentation"
+    ]
+  },
+  {
+    "objectID": "chapitre_1.html",
+    "href": "chapitre_1.html",
+    "title": "2  chapitre 1: Introduction aux théories économiques de l’Etat",
+    "section": "",
+    "text": "2.1 Introduction\nPlus ou moins d’Etat? Celui-ci doit-il intervenir dans l’économie? Si oui, comment? Quels sont ses objectifs et ses outils? Que nous dit la théorie économique?\nCe chapitre s’appuie sur le Précis d’économie d’Emmanuel Combe (“Précis d’économie  PUF” n.d.)",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>chapitre 1: Introduction aux théories économiques de l'Etat</span>"
+    ]
+  },
+  {
+    "objectID": "chapitre_1.html#justifications-de-letat-minimal-les-classiques",
+    "href": "chapitre_1.html#justifications-de-letat-minimal-les-classiques",
+    "title": "2  chapitre 1: Introduction aux théories économiques de l’Etat",
+    "section": "2.2 Justifications de l’Etat minimal : les Classiques",
+    "text": "2.2 Justifications de l’Etat minimal : les Classiques\nLes Classiques prônent une intervention minimale de l’Etat dans l’économie (Sabéran 2008)\n\n\n\n\n\n\nCitation\n\n\n\n« Le troisième et dernier devoir du souverain ou de la république est celui d’élever et d’entretenir ces ouvrages et ces établissements publics dont une grande société retire d’immense avantages, mais qui sont néanmoins de nature à ne pouvoir être entrepris ou entretenus par un ou par quelques particuliers, attendu que pour ceux-ci, le profit ne saurait jamais leur en rembourser la dépense. Ce devoir exige aussi, pour le remplir, des dépenses dont l’étendue varie selon les divers degrés de la société. Après les travaux et les établissements publics nécessaires pour la défense de la société et pour l’administration de la justice, deux objets dont nous avons parlé, les autres travaux et établissements de ce genre sont principalement ceux pour faciliter le commerce de la société, et ceux destinés à étendre l’instruction parmi le peuple ».\nA Smith « Recherches sur la nature et les causes de la richesse des nations », 1776, livre V, chapitre I.\n\n\n\n2.2.1 Remédier aux défaillances de marché\n\n2.2.1.1 Les Externalités\n\n\n2.2.1.2 Les Biens Publics\n\n\n\n2.2.2 Veiller au fonctionnement concurrentiel des marchés\n\n2.2.2.1 Les lois anti-trust\n\n\n2.2.2.2 Régulation des monopoles",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>chapitre 1: Introduction aux théories économiques de l'Etat</span>"
+    ]
+  },
+  {
+    "objectID": "chapitre_1.html#justifications-dune-intervention-prononcée-de-letat-lanalyse-keynésienne",
+    "href": "chapitre_1.html#justifications-dune-intervention-prononcée-de-letat-lanalyse-keynésienne",
+    "title": "2  chapitre 1: Introduction aux théories économiques de l’Etat",
+    "section": "2.3 Justifications d’une intervention prononcée de l’Etat: l’analyse keynésienne",
+    "text": "2.3 Justifications d’une intervention prononcée de l’Etat: l’analyse keynésienne\n\n2.3.1 Les politiques de relance: le multiplicateur keynésien\n\n\n2.3.2 Le modèle IS-LM\n\n\n\n\n\n\nNote\n\n\n\nA ce cours est associée une application de simulation de politiques économiques:\nhttps://pascalinev.shinyapps.io/eco_generale/\nA vous de jouer …\n\n\n\n\n\n\n“Précis d’économie  PUF.” n.d. Accessed January 9, 2025. https://www.puf.com/precis-deconomie.\n\n\nSabéran, Shirine. 2008. “La notion d’intérêt général chez Adam Smith : de la richesse des nations à la puissance des nations:” Géoéconomie n° 45 (2): 55–71. https://doi.org/10.3917/geoec.045.0055.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>chapitre 1: Introduction aux théories économiques de l'Etat</span>"
+    ]
+  },
+  {
+    "objectID": "chapitre_1.html#introduction",
+    "href": "chapitre_1.html#introduction",
+    "title": "2  chapitre 1: Introduction aux théories économiques de l’Etat",
+    "section": "",
+    "text": "2.1.1 Les trois fonctions de l’Etat:\n\nAllocation des ressources: l’Etat réalise des dépenses pour entretenir son administration et financer les biens collectifs (défense, infrastructures …)\nRedistribution: Vers l’égalité d’accès des citoyens à certaines ressources\nRégulation: Soutenir l’activité économique\n\n\n\n2.1.2 Les objectifs de la politique économique de l’Etat:\n\n\nShow the code\n# Étape 1 : Préparer les données\ndata_france &lt;- data.frame(\n  periode = c(\"2000\", \"2005\", \"2010\", \"2015\", \"2020\"),\n  croissance = c(3.0, 2.5, 1.2, 1.8, -0.5),  # Croissance économique (%)\n  emploi = c(93, 91, 89, 87, 85),           # Taux d'emploi (%)\n  prix = c(1.5, 2.0, 1.8, 1.6, 0.5),        # Inflation (%)\n  commerce = c(0.2, -0.5, -1.0, -1.5, -2.0) # Balance commerciale (% du PIB)\n)\n\n# Étape 2 : Normaliser les données\nnormalize &lt;- function(x) {\n  (x - min(x)) / (max(x) - min(x))\n}\n\ndata_normalized &lt;- data_france\ndata_normalized[, -1] &lt;- as.data.frame(lapply(data_france[, -1], normalize))\n\n# Étape 3 : Préparer les données pour le graphique radar\n# Installer et charger le package fmsb si nécessaire\n\nlibrary(fmsb)\n\n# Ajouter les lignes pour les max et min (requis pour le package fmsb)\nradar_data &lt;- rbind(\n  rep(1, 4),  # Valeurs maximales après normalisation\n  rep(0, 4),  # Valeurs minimales après normalisation\n  data_normalized[, -1]  # Données normalisées\n)\n\n# Nommer les colonnes pour le graphique radar\ncolnames(radar_data) &lt;- c(\"Croissance\", \"Emploi\", \"Prix\", \"Commerce\")\nrownames(radar_data) &lt;- c(\"Max\", \"Min\", data_france$periode)\n\n# Étape 4 : Tracer le carré magique\nradarchart(\n  radar_data,\n  axistype = 1,\n  pcol = rainbow(nrow(data_france)),  # Couleurs pour chaque période\n  pfcol = rainbow(nrow(data_france), alpha = 0.4),  # Couleurs remplies\n  plwd = 2,  # Épaisseur des lignes\n  cglcol = \"grey\", cglty = 1, axislabcol = \"black\", caxislabels = seq(0, 1, 0.2),\n  title = \"Carré magique de Kaldor - France à différentes périodes\"\n)\n\n# Ajouter une légende\nlegend(\n  \"topright\",\n  legend = data_france$periode,\n  col = rainbow(nrow(data_france)),\n  lty = 1, lwd = 2\n)",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>chapitre 1: Introduction aux théories économiques de l'Etat</span>"
+    ]
+  }
+]

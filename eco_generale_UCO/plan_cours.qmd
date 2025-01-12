@@ -1,0 +1,98 @@
+---
+title: "Plan du Cours"
+---
+
+## Séance 1 : Introduction aux théories économiques de l'État
+
+**Objectifs**\
+- Présenter les principales théories économiques sur le rôle de l'État dans l'économie. - Expliquer les courants classiques et keynésiens. La synthèse : le modèle IS-LM
+
+A ce cours est associée une application de simulation de politiques économiques:
+
+<https://pascalinev.shinyapps.io/eco_generale/>
+
+**Activités**\
+1. Lecture d’extraits d’œuvres classiques (Adam Smith, John Maynard Keynes). 2. Comparaison des approches keynésiennes et classiques à travers un exemple concret (ex. : crise économique de 2008). 3. Discussion : Quel rôle l'État doit-il jouer dans l'économie actuelle ?
+
+::: callout-tip
+## Documents Complémentaire
+
+<https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/monnaie-le-carburant-de-la-croissance-3375007>
+:::
+
+## Séance 2 : Le cadre institutionnel et le processus budgétaire
+
+**Objectifs**\
+- Comprendre le rôle des institutions dans l'élaboration du budget de l'État et les règles de l'Union européenne.
+
+**Activités**\
+1. Étude de cas : Analyse d’un budget national (ex. : budget français) et son approbation par les institutions européennes. 2. Discussion : L’impact des critères de Maastricht sur les politiques budgétaires nationales. 3. Débat : Les limites du processus budgétaire dans l’UE face aux crises économiques.
+
+## Séance 3 : La politique monétaire et la BCE
+
+**Objectifs**\
+- Analyser les mécanismes de la politique monétaire et leur impact sur les économies nationales au sein de l'UEM.
+
+**Activités**\
+1. Étude de cas : Analyse des décisions de la BCE pendant la crise de la zone euro (2010-2012). 2. Simulation : Prendre des décisions en tant que membres du conseil de la BCE concernant les taux d’intérêt face à une crise économique. 3. Discussion : Les limites de l'indépendance de la BCE.
+
+## Séance 4 : Les politiques économiques face aux inégalités sociales et économiques
+
+**Objectifs**
+
+[-]{.underline} Analyser les causes et les conséquences des inégalités économiques. [-]{.underline} Étudier les différentes politiques économiques visant à réduire les inégalités sociales. [-]{.underline} Discuter des arbitrages entre croissance économique et équité sociale.
+
+**Activités**\
+[1.]{.underline} Étude de cas : Analyse des politiques redistributives mises en place dans des pays européens (exemple : impôt progressif, transferts sociaux). [2.]{.underline} Discussion : Les inégalités sont-elles inévitables dans une économie de marché ? Quels rôles pour l’État ? [3.]{.underline} Atelier : Proposer une stratégie économique pour réduire les inégalités dans un pays fictif en respectant des contraintes budgétaires.
+
+## Séance 5 : Les réformes structurelles en France et en Europe
+
+**Objectifs**\
+- Étudier les réformes structurelles en France et en Europe et leur impact sur l’économie à long terme.
+
+**Activités**\
+1. Étude de cas : Analyse des réformes du marché du travail en France (réforme des retraites, loi El Khomri). 2. Discussion : Quels sont les effets des réformes structurelles sur la croissance économique et l’emploi ? 3. Présentation en groupe : Comparer les réformes structurelles dans plusieurs pays européens et leurs résultats.
+
+## Séance 6 : La crise des subprimes et les réponses politiques
+
+**Objectifs**\
+- Comprendre les causes de la crise des subprimes et les réponses politiques mises en place.
+
+**Activités**\
+1. Étude de cas : Analyser les origines de la crise des subprimes et les réponses économiques des États-Unis et de l'Europe. 2. Simulation : Recommandations pour des politiques économiques après un choc externe. 3. Discussion : Quel rôle pour l'État face à une crise financière globale ?
+
+## Séance 7 : La crise des dettes souveraines : analyse et solutions
+
+**Objectifs**\
+- Analyser la crise des dettes souveraines en Europe et les solutions mises en œuvre.
+
+**Activités**\
+1. Étude de cas : Analyser la gestion de la crise de la dette en Grèce et en Espagne. 2. Débat : Les politiques d’austérité : nécessaire réduction des déficits ou frein à la croissance ? 3. Discussion : Quels mécanismes de solidarité économique peuvent être mis en place au sein de l’UE pour éviter de futures crises de dette souveraine ?
+
+## Séance 8 : Le chômage : déséquilibre du marché du travail
+
+**Objectifs**\
+- Définir et analyser les types de chômage et les difficultés de mesure.
+
+**Activités**\
+1. Analyse de données : Étudier les taux de chômage dans différents pays européens (France, Allemagne, Espagne). 2. Discussion : Les limites des indicateurs officiels du chômage (ex. taux de chômage et sous-emploi). 3. Cas pratique : Identifier les facteurs influençant le chômage dans un pays de l'UE (récession, changements technologiques, etc.).
+
+## Séance 9 : Analyse néoclassique du marché du travail
+
+**Objectifs**\
+- Appliquer les principes néoclassiques du marché du travail aux réalités contemporaines.
+
+**Activités**\
+1. Étude de cas : Analyser l'impact des réformes du marché du travail en France à travers le prisme néoclassique. 2. Discussion : Les néoclassiques ont-ils une réponse adéquate aux défis du chômage structurel et du chômage technologique ? 3. Simulation : Déterminer l'impact des politiques d’offre (réduire les impôts, flexibiliser le marché du travail) sur le chômage.
+
+## Séance 10 : Politiques de l'emploi : analyse et débat
+
+**Objectifs**\
+- Analyser les politiques de l'emploi mises en œuvre en France et en Europe.
+
+**Activités**\
+1. Étude de cas : Analyser les politiques actives de l’emploi (formation, subventions à l’embauche) dans différents pays européens. 2. Simulation : Proposer des solutions pour réduire le chômage dans un pays fictif (par exemple, une nation européenne en récession). 3. Débat : Quelle politique de l'emploi est la plus efficace face au chômage des jeunes et au chômage de longue durée ?
+
+## Fil conducteur pour les TD : Simulation de gestion économique
+
+Tout au long des séances, les étudiants seront divisés en groupes représentant différents acteurs économiques (gouvernement, secteur privé, banques centrales, syndicats, etc.). Chaque TD permettra aux groupes de prendre des décisions politiques et économiques basées sur les théories et concepts étudiés en cours. À chaque séance, les groupes présenteront leurs choix et leur analyse de l'impact de leurs décisions sur l'économie du pays fictif qu’ils gèrent. Cela permettra d'illustrer de manière concrète l’application des connaissances théoriques et de favoriser un apprentissage interactif.
