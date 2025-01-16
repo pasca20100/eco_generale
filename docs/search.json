@@ -209,113 +209,146 @@
     ]
   },
   {
-    "objectID": "dossiers.html",
-    "href": "dossiers.html",
-    "title": "3  dossiers",
+    "objectID": "td_1.html",
+    "href": "td_1.html",
+    "title": "3  TD 1",
     "section": "",
-    "text": "4 Gestion économique d’un pays fictif : Sujets de dossier",
+    "text": "3.1 Modèle IS-LM\nConsidérons le modèle IS-LM suivant:\n\\(C=200+0,25Y^D\\)\n\\(I=150+0,25Y-1000i\\)\n\\(G=250\\)\n\\(T=200\\)\n\\((M/P)^d=2Y-8000i\\)\n\\((M/P)^s=1600\\)",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>TD 1</span>"
+    ]
+  },
+  {
+    "objectID": "td_1.html#modèle-is-lm",
+    "href": "td_1.html#modèle-is-lm",
+    "title": "3  TD 1",
+    "section": "",
+    "text": "3.1.1 Questions:\n\nEtablir l’équation de la courbe \\(IS\\)\nEtablir l’équation de la courbe \\(LM\\)\nTrouver le produit d’équilibre \\(Y^*\\) , le taux d’intérêt d’équilibre \\(i^*\\), la consommation \\(C\\) et l’investissement \\(I\\)\nDonner une représentation graphique des courbes \\(IS\\) et \\(LM\\) .\nSupposons maintenant que l’offre de monnaie augmente et passeà \\((M/P)^s=1840\\) . Trouvez les valeurs de \\(Y^*\\), \\(i^*\\), \\(C\\) et \\(I\\). Expliquez les effets de la politique d’expansion monétaire.\nReprenons la valeur initiale de l’offre de monnaie, soit \\((M/P)^s=1600\\), et supposons maintenant que les dépenses augmentent jusqu’à \\(G=400\\). Calculez les nouvelles valeurs d’équilibre. Résumer les effets d’une politique d’expansion budgétaire sur \\(Y\\), \\(i\\), \\(C\\) et \\(I\\).",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>TD 1</span>"
+    ]
+  },
+  {
+    "objectID": "td_1.html#travail-sur-les-données.",
+    "href": "td_1.html#travail-sur-les-données.",
+    "title": "3  TD 1",
+    "section": "3.2 Travail sur les données.",
+    "text": "3.2 Travail sur les données.\nRecherchez les données des différentes variables du carré magique de Kaldor.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>TD 1</span>"
+    ]
+  },
+  {
+    "objectID": "dossiers.html",
+    "href": "dossiers.html",
+    "title": "4  dossiers",
+    "section": "",
+    "text": "5 Gestion économique d’un pays fictif : Sujets de dossier",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {
     "objectID": "dossiers.html#gestion-économique-et-politique-monétaire",
     "href": "dossiers.html#gestion-économique-et-politique-monétaire",
-    "title": "3  dossiers",
-    "section": "4.1 Gestion économique et politique monétaire",
-    "text": "4.1 Gestion économique et politique monétaire\n\nSujet 1 : Comment gérer une inflation galopante dans un pays fictif ?\nSujet 2 : Stratégies de relance économique face à une récession prolongée : politique budgétaire vs politique monétaire.\nSujet 3 : Quelle politique monétaire adopter face à une crise bancaire dans un pays fictif ?\nSujet 4 : Impact des taux d’intérêt sur l’investissement et l’emploi : simulations pour un pays en stagnation économique.",
+    "title": "4  dossiers",
+    "section": "5.1 Gestion économique et politique monétaire",
+    "text": "5.1 Gestion économique et politique monétaire\n\nSujet 1 : Comment gérer une inflation galopante dans un pays fictif ?\nSujet 2 : Stratégies de relance économique face à une récession prolongée : politique budgétaire vs politique monétaire.\nSujet 3 : Quelle politique monétaire adopter face à une crise bancaire dans un pays fictif ?\nSujet 4 : Impact des taux d’intérêt sur l’investissement et l’emploi : simulations pour un pays en stagnation économique.",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {
     "objectID": "dossiers.html#réponses-aux-crises-économiques",
     "href": "dossiers.html#réponses-aux-crises-économiques",
-    "title": "3  dossiers",
-    "section": "4.2 Réponses aux crises économiques",
-    "text": "4.2 Réponses aux crises économiques\n\nSujet 5 : Gestion d’une crise économique mondiale : quelles mesures pour limiter les impacts sur un pays fictif ?\nSujet 6 : Réponse à une crise des subprimes dans une économie fictive : politiques keynésiennes ou classiques ?\nSujet 7 : Gestion d’une crise de la dette souveraine dans un État fictif : réformes nécessaires et mécanismes de solidarité.\nSujet 8 : Lutte contre une bulle spéculative immobilière : stratégies de régulation économique.",
+    "title": "4  dossiers",
+    "section": "5.2 Réponses aux crises économiques",
+    "text": "5.2 Réponses aux crises économiques\n\nSujet 5 : Gestion d’une crise économique mondiale : quelles mesures pour limiter les impacts sur un pays fictif ?\nSujet 6 : Réponse à une crise des subprimes dans une économie fictive : politiques keynésiennes ou classiques ?\nSujet 7 : Gestion d’une crise de la dette souveraine dans un État fictif : réformes nécessaires et mécanismes de solidarité.\nSujet 8 : Lutte contre une bulle spéculative immobilière : stratégies de régulation économique.",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {
     "objectID": "dossiers.html#réformes-structurelles-et-politiques-publiques",
     "href": "dossiers.html#réformes-structurelles-et-politiques-publiques",
-    "title": "3  dossiers",
-    "section": "4.3 Réformes structurelles et politiques publiques",
-    "text": "4.3 Réformes structurelles et politiques publiques\n\nSujet 9 : Réformer le marché du travail pour réduire le chômage structurel : une étude de cas fictive.\nSujet 10 : Quelles réformes structurelles pour stimuler la croissance économique à long terme dans un pays fictif ?\nSujet 11 : Impact d’une réforme fiscale sur l’économie et les inégalités sociales dans un pays fictif.\nSujet 12 : Réformes de la sécurité sociale et des retraites : équilibre budgétaire ou justice sociale ?",
+    "title": "4  dossiers",
+    "section": "5.3 Réformes structurelles et politiques publiques",
+    "text": "5.3 Réformes structurelles et politiques publiques\n\nSujet 9 : Réformer le marché du travail pour réduire le chômage structurel : une étude de cas fictive.\nSujet 10 : Quelles réformes structurelles pour stimuler la croissance économique à long terme dans un pays fictif ?\nSujet 11 : Impact d’une réforme fiscale sur l’économie et les inégalités sociales dans un pays fictif.\nSujet 12 : Réformes de la sécurité sociale et des retraites : équilibre budgétaire ou justice sociale ?",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {
     "objectID": "dossiers.html#chômage-et-marché-du-travail",
     "href": "dossiers.html#chômage-et-marché-du-travail",
-    "title": "3  dossiers",
-    "section": "4.4 Chômage et marché du travail",
-    "text": "4.4 Chômage et marché du travail\n\nSujet 13 : Stratégies pour réduire le chômage des jeunes dans une économie fictive en crise.\nSujet 14 : Flexibiliser le marché du travail pour réduire le chômage : une simulation basée sur une approche néoclassique.\nSujet 15 : Sous-emploi et chômage de longue durée : quelles politiques actives pour un pays fictif ?",
+    "title": "4  dossiers",
+    "section": "5.4 Chômage et marché du travail",
+    "text": "5.4 Chômage et marché du travail\n\nSujet 13 : Stratégies pour réduire le chômage des jeunes dans une économie fictive en crise.\nSujet 14 : Flexibiliser le marché du travail pour réduire le chômage : une simulation basée sur une approche néoclassique.\nSujet 15 : Sous-emploi et chômage de longue durée : quelles politiques actives pour un pays fictif ?",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {
     "objectID": "dossiers.html#croissance-économique-et-transition-écologique",
     "href": "dossiers.html#croissance-économique-et-transition-écologique",
-    "title": "3  dossiers",
-    "section": "4.5 Croissance économique et transition écologique",
-    "text": "4.5 Croissance économique et transition écologique\n\nSujet 16 : Comment concilier croissance économique et transition écologique dans une économie fictive ?\nSujet 17 : Politiques publiques pour réduire les émissions de carbone tout en maintenant la compétitivité économique.\nSujet 18 : Transition énergétique et réforme des subventions aux énergies fossiles dans un pays fictif.",
+    "title": "4  dossiers",
+    "section": "5.5 Croissance économique et transition écologique",
+    "text": "5.5 Croissance économique et transition écologique\n\nSujet 16 : Comment concilier croissance économique et transition écologique dans une économie fictive ?\nSujet 17 : Politiques publiques pour réduire les émissions de carbone tout en maintenant la compétitivité économique.\nSujet 18 : Transition énergétique et réforme des subventions aux énergies fossiles dans un pays fictif.",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {
     "objectID": "dossiers.html#relations-économiques-internationales",
     "href": "dossiers.html#relations-économiques-internationales",
-    "title": "3  dossiers",
-    "section": "4.6 Relations économiques internationales",
-    "text": "4.6 Relations économiques internationales\n\nSujet 19 : Impact d’un choc externe (hausse des prix du pétrole) sur un pays fictif : réponses économiques et budgétaires.\nSujet 20 : Comment protéger une économie fictive des effets négatifs de la mondialisation ?\nSujet 21 : Gestion d’un déficit commercial chronique dans un pays fictif : politiques pour stimuler les exportations.",
+    "title": "4  dossiers",
+    "section": "5.6 Relations économiques internationales",
+    "text": "5.6 Relations économiques internationales\n\nSujet 19 : Impact d’un choc externe (hausse des prix du pétrole) sur un pays fictif : réponses économiques et budgétaires.\nSujet 20 : Comment protéger une économie fictive des effets négatifs de la mondialisation ?\nSujet 21 : Gestion d’un déficit commercial chronique dans un pays fictif : politiques pour stimuler les exportations.",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {
     "objectID": "dossiers.html#politiques-budgétaires-et-dépenses-publiques",
     "href": "dossiers.html#politiques-budgétaires-et-dépenses-publiques",
-    "title": "3  dossiers",
-    "section": "4.7 Politiques budgétaires et dépenses publiques",
-    "text": "4.7 Politiques budgétaires et dépenses publiques\n\nSujet 22 : Réduire le déficit budgétaire sans freiner la croissance : un défi pour une économie fictive.\nSujet 23 : Investir dans les infrastructures publiques pour relancer une économie fictive en récession.\nSujet 24 : Quelles priorités budgétaires pour un pays fictif confronté à une explosion de sa dette publique ?",
+    "title": "4  dossiers",
+    "section": "5.7 Politiques budgétaires et dépenses publiques",
+    "text": "5.7 Politiques budgétaires et dépenses publiques\n\nSujet 22 : Réduire le déficit budgétaire sans freiner la croissance : un défi pour une économie fictive.\nSujet 23 : Investir dans les infrastructures publiques pour relancer une économie fictive en récession.\nSujet 24 : Quelles priorités budgétaires pour un pays fictif confronté à une explosion de sa dette publique ?",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {
     "objectID": "dossiers.html#systèmes-financiers-et-régulation",
     "href": "dossiers.html#systèmes-financiers-et-régulation",
-    "title": "3  dossiers",
-    "section": "4.8 Systèmes financiers et régulation",
-    "text": "4.8 Systèmes financiers et régulation\n\nSujet 25 : Stabiliser le secteur bancaire après une crise systémique : stratégies pour un État fictif.\nSujet 26 : Encadrer les cryptomonnaies et intégrer une monnaie numérique nationale : enjeux et opportunités.\nSujet 27 : Quelles régulations pour éviter une nouvelle crise financière dans un système économique fictif ?",
+    "title": "4  dossiers",
+    "section": "5.8 Systèmes financiers et régulation",
+    "text": "5.8 Systèmes financiers et régulation\n\nSujet 25 : Stabiliser le secteur bancaire après une crise systémique : stratégies pour un État fictif.\nSujet 26 : Encadrer les cryptomonnaies et intégrer une monnaie numérique nationale : enjeux et opportunités.\nSujet 27 : Quelles régulations pour éviter une nouvelle crise financière dans un système économique fictif ?",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {
     "objectID": "dossiers.html#inégalités-sociales-et-redistribution",
     "href": "dossiers.html#inégalités-sociales-et-redistribution",
-    "title": "3  dossiers",
-    "section": "4.9 Inégalités sociales et redistribution",
-    "text": "4.9 Inégalités sociales et redistribution\n\nSujet 28 : Lutter contre les inégalités économiques dans un pays fictif : politiques redistributives ou croissance inclusive ?\nSujet 29 : Mise en place d’un revenu universel : quels impacts économiques dans un pays fictif ?\nSujet 30 : Taxation des grandes fortunes pour financer l’investissement public : un équilibre difficile à atteindre.",
+    "title": "4  dossiers",
+    "section": "5.9 Inégalités sociales et redistribution",
+    "text": "5.9 Inégalités sociales et redistribution\n\nSujet 28 : Lutter contre les inégalités économiques dans un pays fictif : politiques redistributives ou croissance inclusive ?\nSujet 29 : Mise en place d’un revenu universel : quels impacts économiques dans un pays fictif ?\nSujet 30 : Taxation des grandes fortunes pour financer l’investissement public : un équilibre difficile à atteindre.",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>dossiers</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>dossiers</span>"
     ]
   },
   {

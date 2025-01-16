@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Pascaline Vincent">
 
-<title>Economie Générale II</title>
+<title>3&nbsp; TD 1 – Economie Générale II </title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./plan_cours.html" rel="next">
+<link href="./dossiers.html" rel="next">
+<link href="./chapitre_1.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -122,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Présentation</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./td_1.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">TD 1</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -141,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Présentation</span></a>
   </div>
 </li>
@@ -159,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./td_1.html" class="sidebar-item-text sidebar-link">
+  <a href="./td_1.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">TD 1</span></span></a>
   </div>
 </li>
@@ -185,12 +214,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#présentation" id="toc-présentation" class="nav-link active" data-scroll-target="#présentation">Présentation</a>
+  <li><a href="#modèle-is-lm" id="toc-modèle-is-lm" class="nav-link active" data-scroll-target="#modèle-is-lm"><span class="header-section-number">3.1</span> Modèle IS-LM</a>
   <ul class="collapse">
-  <li><a href="#objectifs" id="toc-objectifs" class="nav-link" data-scroll-target="#objectifs">Objectifs</a></li>
-  <li><a href="#pré-requis" id="toc-pré-requis" class="nav-link" data-scroll-target="#pré-requis">Pré-requis</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions"><span class="header-section-number">3.1.1</span> Questions:</a></li>
   </ul></li>
+  <li><a href="#travail-sur-les-données." id="toc-travail-sur-les-données." class="nav-link" data-scroll-target="#travail-sur-les-données."><span class="header-section-number">3.2</span> Travail sur les données.</a></li>
   </ul>
 </nav>
     </div>
@@ -199,19 +227,13 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Economie Générale II</h1>
+<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">TD 1</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Pascaline Vincent </p>
-          </div>
-  </div>
     
   
     
@@ -222,39 +244,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="présentation" class="level1 unnumbered">
-<h1 class="unnumbered">Présentation</h1>
-<section id="objectifs" class="level2">
-<h2 class="anchored" data-anchor-id="objectifs">Objectifs</h2>
-<ul>
-<li><p><em>Comprendre les modalités, les objectifs et les enjeux de la politique économique.</em></p></li>
-<li><p><em>Comprendre les contours et caractéristiques du chômage, le fonctionnement du marché du travail et la pluralité des politiques de l’emploi.</em></p></li>
-</ul>
+<section id="modèle-is-lm" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="modèle-is-lm"><span class="header-section-number">3.1</span> Modèle IS-LM</h2>
+<p>Considérons le modèle IS-LM suivant:</p>
+<p><span class="math inline">\(C=200+0,25Y^D\)</span></p>
+<p><span class="math inline">\(I=150+0,25Y-1000i\)</span></p>
+<p><span class="math inline">\(G=250\)</span></p>
+<p><span class="math inline">\(T=200\)</span></p>
+<p><span class="math inline">\((M/P)^d=2Y-8000i\)</span></p>
+<p><span class="math inline">\((M/P)^s=1600\)</span></p>
+<section id="questions" class="level3" data-number="3.1.1">
+<h3 data-number="3.1.1" class="anchored" data-anchor-id="questions"><span class="header-section-number">3.1.1</span> Questions:</h3>
+<ol type="1">
+<li><p>Etablir l’équation de la courbe <span class="math inline">\(IS\)</span></p></li>
+<li><p>Etablir l’équation de la courbe <span class="math inline">\(LM\)</span></p></li>
+<li><p>Trouver le produit d’équilibre <span class="math inline">\(Y^*\)</span> , le taux d’intérêt d’équilibre <span class="math inline">\(i^*\)</span>, la consommation <span class="math inline">\(C\)</span> et l’investissement <span class="math inline">\(I\)</span></p></li>
+<li><p>Donner une représentation graphique des courbes <span class="math inline">\(IS\)</span> et <span class="math inline">\(LM\)</span> .</p></li>
+<li><p>Supposons maintenant que l’offre de monnaie augmente et passeà <span class="math inline">\((M/P)^s=1840\)</span> . Trouvez les valeurs de <span class="math inline">\(Y^*\)</span>, <span class="math inline">\(i^*\)</span>, <span class="math inline">\(C\)</span> et <span class="math inline">\(I\)</span>. Expliquez les effets de la politique d’expansion monétaire.</p></li>
+<li><p>Reprenons la valeur initiale de l’offre de monnaie, soit <span class="math inline">\((M/P)^s=1600\)</span>, et supposons maintenant que les dépenses augmentent jusqu’à <span class="math inline">\(G=400\)</span>. Calculez les nouvelles valeurs d’équilibre. Résumer les effets d’une politique d’expansion budgétaire sur <span class="math inline">\(Y\)</span>, <span class="math inline">\(i\)</span>, <span class="math inline">\(C\)</span> et <span class="math inline">\(I\)</span>.</p></li>
+</ol>
 </section>
-<section id="pré-requis" class="level2">
-<h2 class="anchored" data-anchor-id="pré-requis">Pré-requis</h2>
-<p><em>* Le cours d’économie générale (S2) suppose la maîtrise des savoir-faire suivants&nbsp;:</em></p>
-<ul>
-<li><p><em>Mesure de proportion, pourcentage de répartition.</em></p></li>
-<li><p><em>Taux de variation, taux de variation cumulé, coefficient multiplicateur, indice simple.</em></p></li>
-<li><p><em>Moyenne arithmétique simple et pondérée.</em></p></li>
-<li><p><em>Indice synthétique.</em></p></li>
-<li><p><em>Médiane.</em></p></li>
-<li><p><em>Écart et rapport inter-quantile.</em></p></li>
-<li><p><em>Corrélation et causalité.</em></p></li>
-<li><p><em>Taux de variation moyen.</em></p></li>
-<li><p><em>Valeur nominale, valeur réelle (notamment, taux d’intérêt nominal et taux d’intérêt réel).</em></p></li>
-</ul>
-<p><em>- Savoir exploiter&nbsp;: Tableau à double-entrée, diagrammes de répartition, représentation de séries chronologiques, représentation graphique de fonctions simples (offre, demande, coût) et interprétation de leurs pentes et de leurs déplacements.</em></p>
-<p><em>* Les théories, notions et mécanismes abordés au semestre 1 en Économie Générale et en Histoire de la Pensée Economique avec notamment</em></p>
-<p><em>- Les différents agrégats macroéconomiques</em></p>
-<p><em>- Les grandes fonctions macroéconomiques</em></p>
 </section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
+<section id="travail-sur-les-données." class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="travail-sur-les-données."><span class="header-section-number">3.2</span> Travail sur les données.</h2>
+<p>Recherchez les données des différentes variables du carré magique de Kaldor.</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -680,10 +695,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./chapitre_1.html" class="pagination-link" aria-label="chapitre 1: Introduction aux théories économiques de l'Etat">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">chapitre 1: Introduction aux théories économiques de l’Etat</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./plan_cours.html" class="pagination-link" aria-label="Plan du Cours">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Plan du Cours</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./dossiers.html" class="pagination-link" aria-label="dossiers">
+        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">dossiers</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
